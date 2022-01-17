@@ -1,4 +1,8 @@
 Every Command
 
 1 help
+2 logout
+3 avatar
+4 refresh
+5 reeses
 
