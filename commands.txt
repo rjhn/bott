@@ -5,4 +5,4 @@ Every Command
 3 avatar
 4 refresh
 5 reeses
-
+6 prices
