@@ -5,4 +5,6 @@ Every Command
 3 avatar
 4 refresh
 5 reeses
-6 prices
+6 kick
+7 poll
+8 role
